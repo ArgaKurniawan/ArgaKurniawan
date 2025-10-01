@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Arga
 **About Me** 
 - 🌱 I'm a student at SMK Taruna Bangsa
-- 👯 Currently in Grade 10
 - 🤔 Learning about programming, technology, and AI
 - 💬 Interested in Javascript, Web Development, and Software Engineer
 
