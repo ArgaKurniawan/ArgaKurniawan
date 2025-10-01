@@ -14,4 +14,5 @@
 
 # 📫 Connect with Me
 - GitHub: ArgaKurniawan
-- Email: argablitzh@gmail.com
+- Instagram : https://www.instagram.com/kurniawanargaa_
+
